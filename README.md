@@ -12,3 +12,6 @@ Sebagai Tugas Software Testing 2022
 untuk user login aplikasi adalah
 user : ragamuliakusuma
 pass : ragamuliakusuma
+
+## tampilan login
+https://github.com/Lutfisaputra/Aplikasi-Kasir-Restoran-Berbasis-Web/issues/2#issue-1522780984
