@@ -14,4 +14,4 @@ user : ragamuliakusuma
 pass : ragamuliakusuma
 
 ## tampilan login
-https://github.com/Lutfisaputra/Aplikasi-Kasir-Restoran-Berbasis-Web/issues/2#issue-1522780984
+![Login](https://user-images.githubusercontent.com/84789091/211047745-0dd8f0db-1435-4a38-a212-bcabf345ebf3.png)
